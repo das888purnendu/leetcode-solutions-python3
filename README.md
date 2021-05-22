@@ -2,5 +2,6 @@
 This repository is for My Leetcode practice solutions in Python
 
 1. Two Sum : https://leetcode.com/problems/two-sum/
-2. Palindrome Number : https://leetcode.com/problems/reverse-integer
-3. Roman to Integer : https://leetcode.com/problems/roman-to-integer
+2. Reverse Integer :https://leetcode.com/problems/reverse-integer
+3. Palindrome Number : https://leetcode.com/problems/palindrome-number
+4. Roman to Integer : https://leetcode.com/problems/roman-to-integer
