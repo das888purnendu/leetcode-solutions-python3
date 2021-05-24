@@ -8,3 +8,4 @@ This repository is for My Leetcode practice solutions in Python
 5. Longest Common Prefix : https://leetcode.com/problems/longest-common-prefix/
 6. Valid Parentheses : https://leetcode.com/problems/valid-parentheses/
 7. Merge Two Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/
+8. Remove Duplicates from Sorted Array : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
