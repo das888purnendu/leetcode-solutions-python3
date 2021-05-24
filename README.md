@@ -9,3 +9,4 @@ This repository is for My Leetcode practice solutions in Python
 6. Valid Parentheses : https://leetcode.com/problems/valid-parentheses/
 7. Merge Two Sorted Lists : https://leetcode.com/problems/merge-two-sorted-lists/
 8. Remove Duplicates from Sorted Array : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+9. Remove Element : https://leetcode.com/problems/remove-element/
