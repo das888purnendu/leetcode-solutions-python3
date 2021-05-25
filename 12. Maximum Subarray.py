@@ -1,7 +1,7 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         ln = len(nums)
-        if(ln>1000):  # it is DP alo for faster process
+        if(ln>1000):  # it is DP algo for faster process
             mx,res = nums[0],nums[0]
             for i in range(ln):
                 if(mx+nums[i]>nums[i]):
